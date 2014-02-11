@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.actionbarsherlock.internal.widget.IcsLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/IcsLinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/string_TempoSincronismo" />
+
+    <EditText
+        android:id="@+id/ed_timeSync"
+        android:layout_width="44dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:text="@string/txt_TimeSyncDefault" />
+
+    <ToggleButton
+        android:id="@+id/tog_visibilidade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/togglebutton" />
+
+    <Button
+        android:id="@+id/btnLimpaBanco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnLimpabanco" />
+
+</com.actionbarsherlock.internal.widget.IcsLinearLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ferlete</string>
+    <string name="search_hint">Localizar Endereco</string>
+    <string name="search_settings">Buscar Endereco</string>
+    
+    
+    
+    <string name="title_infodevice">Sobre</string>
+  	<string name="title_config">Configurações</string>
+    <string name="title_newactivity">Adicionar Atividade</string>
+     
+  	
+    <string name="textview">TextView</string>
+    
+    
+    <string name="action_contact">Contatos</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_group">Grupo</string>
+    <string name="action_configuracoes">Configurações</string>
+    <string name="action_infoDevice">Sobre</string>
+    <string name="action_login">Login</string>
+    <string name="action_activity">Atividades</string>
+    <string name="action_sair">Sair</string>
+    
+    <string name="string_TempoSincronismo">Tempo Sincronização (Seg)</string>
+    <string name="string_SyncAutomatic">Serviço de Transmissão ao WebService</string>
+        
+    <string name="txt_URLDefault">http://200.212.248.135:8100/WSferlete</string>
+    <string name="txt_TimeSyncDefault">60</string>
+    
+    <string name="lbl_GPS">GPS</string>
+    <string name="lbl_internet">Internet</string>
+    <string name="lblAtividade">Atividade</string>
+    <string name="lblLat">Latitude</string>
+    <string name="lblLong">Longitude</string>
+    <string name="lblEmail">E-mail</string>
+    <string name="lblPassword">Senha</string>
+    
+    
+    
+    <string name="togglebutton">ToggleButton</string>
+    
+    
+    <string name="todo">TODO</string>
+    <string name="description">Description</string>
+    
+
+    <string name="button">Button</string>
+    <string name="btn_store">Gravar</string>
+    <string name="btnBack">Voltar</string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnCompartilhar">Compartilhar</string>
+    <string name="btnLimpabanco">Excluir Coordenadas Armazenadas</string>
+    <string name="btnLogin">Login</string>
+    
+    
+    <string name="mmuDelete">Excluir</string>
+    <string name="mmuDetalhe">Detalhes</string>
+    <string name="mmuCompartilhar">Compartilhar</string>
+    <string name="mmuIniciar">Iniciar</string>
+    <string name="mmuConcluir">Concluir</string>
+    
+    <string name="edEndereco">Endereço</string>
+    <string name="edAtividade">Atividade</string>
+    
+    
+    <string name="conf_comunicacao">Comunicação WebService</string>
+    <string name="conf_visivel">Visibilidade</string>
+    <string name="conf_timesync">Tempo de Sincronismo</string>
+    <string name="conf_cidadeDefault">Sua Cidade</string>
+      <string name="conf_autoLogin">Entrar na sua conta automaticamente</string>
+    
+    <string name="msgErroAutenticacao">Login ou senha incorreto</string>
+    
+      
+    <string-array name="list_time_sync">
+        <item name="30">30 Seg</item>
+        <item name="60">1 Min</item>
+        <item name="90">1,5 Min</item>
+        <item name="120" >2 Min</item>
+        <item name="180">2,5 Min</item>
+    </string-array>
+    
+    <string name="conf_contas">Contas</string>
+    <string name="conf_email">Endereço de E-mail</string>
+    <string name="tvNameSystem">Sistema Ferlete</string>
+    <string name="tvVersion">Versão 1.0</string>
+    <string name="lblRegister">Novo no Sistema?. Crie sua conta</string>
+    <string name="btnRegister">Criar Conta</string>
+    
+    
+    
+    
+
+</resources>

@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:com.ferlete="http://schemas.android.com/apk/res-auto">
+
+    
+    <item
+        android:id="@+id/action_atividades"
+        android:title="@string/action_activity"
+        android:icon="@drawable/ic_action_paste"
+        com.ferlete:showAsAction="ifRoom"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_infoDevice"
+        android:title="@string/action_infoDevice"
+         android:icon="@drawable/ic_action_user"
+         com.ferlete:showAsAction="ifRoom"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_configuracoes"
+        android:title="@string/action_configuracoes"
+        android:icon="@drawable/ic_action_share"
+        com.ferlete:showAsAction="ifRoom"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_sair"
+        android:title="@string/action_sair"
+        android:icon="@drawable/ic_action_send"
+        com.ferlete:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_search"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        com.ferlete:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/action_search"
+        com.ferlete:showAsAction="always"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="1"/>    
+
+    
+
+</menu>
